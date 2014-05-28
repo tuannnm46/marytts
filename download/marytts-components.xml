@@ -371,7 +371,7 @@
         <description></description>
         <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
         <package filename="voice-my_voice-hsmm-5.1-SNAPSHOT.zip"
-            md5sum="db5b53867ab47d6db5f8a624a060bbe6" size="60943">
+            md5sum="5bf0e7d4a0e5609688a4303a8b84ca48" size="60943">
             <location href="http://mary.dfki.de/download/5.1-SNAPSHOT/"/>
             <location folder="false" href="https://drive.google.com/uc?id=0Bw_snpU24ghxNmE1UlpDOFZ4MVk"/>
         </package>
