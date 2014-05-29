@@ -377,4 +377,14 @@
         </package>
         <depends language="tr" version="5.1-SNAPSHOT"/>
     </voice>
+    <voice gender="female" locale="en-US" name="my_voice"
+        type="unit selection" version="5.1-SNAPSHOT">
+        <description></description>
+        <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
+        <package filename="voice-my_voice-5.1-SNAPSHOT.zip"
+            md5sum="dbd343599366b28157093e2fda2ec4a2" size="699569">
+            <location href="http://mary.dfki.de/download/5.1-SNAPSHOT/"/>
+        </package>
+        <depends language="en-US" version="5.1-SNAPSHOT"/>
+    </voice>
 </marytts-install>
