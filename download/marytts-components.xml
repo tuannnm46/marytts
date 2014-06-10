@@ -387,26 +387,6 @@
         </package>
         <depends language="en-US" version="5.1-SNAPSHOT"/>
     </voice>
-    <voice gender="female" locale="en-US" name="voice2"
-        type="unit selection" version="5.1-SNAPSHOT">
-        <description></description>
-        <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
-        <package filename="voice-voice2-5.1-SNAPSHOT.zip"
-            md5sum="cf76bd9579b77b8f346970202d84893a" size="340668">
-            <location href="http://mary.dfki.de/download/5.1-SNAPSHOT/"/>
-        </package>
-        <depends language="en-US" version="5.1-SNAPSHOT"/>
-    </voice>
-    <voice gender="female" locale="en-US" name="my_voice"
-        type="unit selection" version="5.1-SNAPSHOT">
-        <description></description>
-        <license href="http://mary.dfki.de/download/by-nd-3.0.html"/>
-        <package filename="voice-my_voice-5.1-SNAPSHOT.zip"
-            md5sum="356689dc6cf8a74e0e5d4bac5c88139b" size="341574">
-            <location href="http://mary.dfki.de/download/5.1-SNAPSHOT/"/>
-        </package>
-        <depends language="en-US" version="5.1-SNAPSHOT"/>
-    </voice>
     <voice gender="male" locale="vi" name="my_voice"
         type="unit selection" version="5.1-SNAPSHOT">
         <description></description>
